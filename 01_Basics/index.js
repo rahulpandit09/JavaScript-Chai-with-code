@@ -13,3 +13,4 @@ let phoneNumber = "457826825"
 let cityName = "bihar"
 
 console.table([Id, name, phoneNumber, cityName])
+
