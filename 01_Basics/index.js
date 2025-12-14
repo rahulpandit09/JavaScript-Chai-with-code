@@ -12,7 +12,26 @@ console.log("Hii Rahul How are you all good");
 
 // console.table([employeeId, employeeName, employeePhoneNumber, employeeEmail]);
 
-let number = 45
+// let number = 45
 
-let myNumber = String(Number)
-console.log(typeof (myNumber))
+// let myNumber = String(Number)
+// console.log(typeof (myNumber))
+
+// let numberScore = "89"
+
+// let numberOfScore = string(numberScore)
+// console.log(typeof (numberOfScore))
+
+
+// let number = 45
+// let myNumber = String(Number)
+// console.log(typeof (myNumber))
+
+let cityName = undefined;
+console.log(typeof cityName)
+
+let i = 2;
+let n = String(i)
+console.log(n);
+
+
