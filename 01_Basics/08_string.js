@@ -32,3 +32,6 @@ console.log(url.replace('%20', '-'));
 console.log(url.includes('ram'))
 
 console.log(gameName.split('-'));
+
+
+// (String method) study tomorrow.
