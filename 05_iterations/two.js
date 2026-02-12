@@ -1,0 +1,13 @@
+
+let i = 0;
+while (i <= 10) {
+    console.log(`value of index is ${i}`)
+    i = i + 2;
+}
+
+let myArray = ["flash","batman","superman"];
+arr = 0;
+while (arr< myArray.length) {
+    console.log(`Value is ${myArray[arr]}`)
+    arr = arr + 1;
+}
